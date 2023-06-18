@@ -9,4 +9,5 @@ good enough to be their own repos (or even to fit in
 
 | Thing | Notes |
 |-------|-------|
-| ... | ... | 
+| [python/triton-play](python/triton-play) | Playing with the Triton language. |
+| ... | ... |
